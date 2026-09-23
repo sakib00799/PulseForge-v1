@@ -1,0 +1,1 @@
+"""Telemetry event ingestion module."""
